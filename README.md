@@ -1,6 +1,6 @@
 # Heart-Disease-Hackathon
 
-A brief analysis done using 2 classfication models:
+A brief analysis done using two classfication models:
 - Logistic Regression Model
 - Support Vector Machine
  
