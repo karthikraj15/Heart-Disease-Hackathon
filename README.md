@@ -1,9 +1,8 @@
 # Heart-Disease-Hackathon
 
 A brief analysis done using 2 classfication models:
-
--Logictic Regression Model
--Support Vector Machine
+- Logictic Regression Model
+- - Support Vector Machine
  
 Here are the plots that are not displayed in the above .ipynb file
 AGE V/S TARGET 
