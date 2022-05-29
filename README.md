@@ -16,5 +16,5 @@ Here are the plots that are not displayed in the above .ipynb file
 ![Cholestoral vs Target (Histogram)](https://user-images.githubusercontent.com/88207381/170861356-772ac694-2efc-4a01-9adb-41f8a62a5c53.png)
 
 
-## RESTING BLLOD PRESSURE V/S TARGET
+## RESTING BLOOD PRESSURE V/S TARGET
 ![newplot](https://user-images.githubusercontent.com/74294110/170861297-7a3e9f2d-bbca-457d-86c9-0353aa97a994.png)
